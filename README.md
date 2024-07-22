@@ -36,7 +36,7 @@ gcc -o process_management_system SourceCode.c
 
 Run the Program: Execute the compiled binary.
 
-./process_management_system
+<code>./process_management_system</code>
 
 Follow the Menu Options: The program provides a menu for different operations such as creating processes, displaying status, scheduling, etc.
 
