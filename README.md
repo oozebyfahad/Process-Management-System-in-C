@@ -32,7 +32,7 @@ The file containing process information should have each process represented by 
   
 Compile the Code: Use a C compiler to compile the code.
 
-gcc -o process_management_system SourceCode.c
+<code>gcc -o process_management_system SourceCode.c</code>
 
 Run the Program: Execute the compiled binary.
 
