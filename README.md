@@ -29,16 +29,15 @@ The file containing process information should have each process represented by 
 - Priority
 - I/O Instructions (3 sets of 3 integers)
 - Usage
-- Compile the Code: Use a C compiler to compile the code.
+  
+Compile the Code: Use a C compiler to compile the code.
 
-sh
-Copy code
 gcc -o process_management_system SourceCode.c
+
 Run the Program: Execute the compiled binary.
 
-sh
-Copy code
 ./process_management_system
+
 Follow the Menu Options: The program provides a menu for different operations such as creating processes, displaying status, scheduling, etc.
 
 Note
